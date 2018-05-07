@@ -1,5 +1,11 @@
 package exercicio1;
 
+/**
+ * 
+ * @author Leandro Holanda 816113762
+ *
+ */
+
 public class IncrementalSingleton {
 	private static IncrementalSingleton instance = new IncrementalSingleton();
 	private static int count = 0;

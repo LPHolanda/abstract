@@ -1,5 +1,11 @@
 package exercicio1;
 
+/**
+ * 
+ * @author Leandro Holanda 816113762
+ *
+ */
+
 public class TesteIncremental {
 /*	public static void main(String[] args) {
 		for (int i = 0; i < 10; i++) {
